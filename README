@@ -1,3 +1,3 @@
-Fyle-System is a c project developed for a university subject. Basically it simulates a Unix file system. The projects guidelines can be read in the pdf file “FSO1314-PA2”. 
+Fyle-System is a c project developed for a university subject. Basically it simulates a Unix file system. The projects guidelines can be read in the pdf file “FSO1314-PA2”. Everything was given by the professores except the fs.c that we implement according to the information given in the pdf.
 
 NOTE: Project not finished.
